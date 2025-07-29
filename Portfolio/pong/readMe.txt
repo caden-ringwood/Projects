@@ -1,0 +1,1 @@
+This is a two player Pong. To play you need pyhton installed and pygame.

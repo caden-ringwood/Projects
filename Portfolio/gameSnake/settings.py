@@ -1,0 +1,12 @@
+title = "Cool Snake"
+
+BOARD_SIZE = 300
+DELAY = 100
+SIZE = 10
+MAX_RAND_POS = BOARD_SIZE // SIZE - 3
+
+LEFT_CURSOR_KEY = "Left"
+RIGHT_CURSOR_KEY = "Right"
+UP_CURSOR_KEY = "Up"
+DOWN_CURSOR_KEY = "Down"
+
